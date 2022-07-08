@@ -1,6 +1,45 @@
 <!DOCTYPE html>
-<html>
-	<body>
-		<iframe width="560" height="315" src="https://www.youtube.com/embed/GzUb9cOxbaw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-	</body>
+<html lang="en" dir="ltr">
+  <head>
+    <title>Alexis Parent</title>
+    <link rel="icon" href="src/icon.ico">
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+    <script src="js/main.js"></script>
+  </head>
+  <body>
+
+    <div class="container">
+
+      <div id="sidebar">
+        <h1>Alexis Parent</h1>
+        <img src="src/profile.jpg" alt="Profile Picture" id="profile">
+        <p>Je suis étudiant à l'Université de Paris 8 en Arts et Technologies de l'Image, cherchant à me spécialiser dans mon domaine qu'est la programmation et la création de jeux vidéo / expériences immersives (Réalité Virtuelle, Augmentée et Mixte) - tout en améliorant mes compétences graphiques et artistiques.
+
+Ayant toujours été attiré par ces domaines, j'ai commencé par apprendre la programmation et ses fondements en autodidacte avant d'en faire mon sujet d'études. J'ai donc depuis fait plusieurs projets personnels et scolaires se basant principalement sur Unity ou Python, comme des jeux vidéo et expérimentations sous Unity, des programmes d'automatisation de tâches sous Python, ou encore plus récemment des expériences immersives sous Unity et Python chez Small by Mac Guff.</p>
+      </div>
+
+      <div id="terminal">
+        <!--
+        <p id="intro">
+          Placeholder for text on top of command line.
+        </p>
+        -->
+        <div id="injected"></div>
+        <div id="userInput">
+          <input type="text" value="root@Alexis Parent's Website:~$" id="prompt" size = "28" readonly="readonly">
+          <input type="text" id="txtBox" onkeypress="commandProcessor(event)" placeholder="Enter help for commands list" size = "40" autofocus>
+        </div>
+      </div>
+
+    </div>
+
+    <footer>
+      <p id="Copyright">
+        Template crée par CedArctic (https://github.com/CedArctic/bash-CV), merci à lui pour le partage.
+      </p>
+    </footer>
+
+  </body>
 </html>
