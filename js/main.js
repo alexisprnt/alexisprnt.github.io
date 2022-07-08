@@ -50,9 +50,9 @@ function projects(){
   <li><a href=\"https://www.youtube.com/watch?v=ETHyrzOOgKQ&ab_channel=AlexisParent\" target=\"_blank\" style=\"color: #0000EE;\"> 03_Procedural_Generation.mp4</a></li>\
   <li><a href=\"https://www.youtube.com/watch?v=5JTDmDNGiBc&ab_channel=AlexisParent\" target=\"_blank\" style=\"color: #0000EE;\"> 04_Fibonnaci_Generation.mp4</a></li>\
   <li><a href=\"https://www.youtube.com/watch?v=M1o3Z3TP20c&ab_channel=AlexisParent\" target=\"_blank\" style=\"color: #0000EE;\"> 05_Shader_Water.mp4</a></li>\
-  <li><a href=\"src/06_UnrealVideur_Build\" target=\"_blank\" style=\"color: #0000EE;\"> 06_UnrealVideur.exe</a></li>\
+  <li><a href=\"alexisprnt.github.io/src/06_UnrealVideur_Build\" target=\"_blank\" style=\"color: #0000EE;\"> 06_UnrealVideur.exe</a></li>\
   <li><a href=\"https://www.youtube.com/watch?v=C2xAV9Pygsw&ab_channel=AlexisParent\" target=\"_blank\" style=\"color: #0000EE;\"> 07_Animation_Chainee.mp4</a></li>\
-  <li><a href=\"src/09_Dragon_Photogrammetrie.png\" target=\"_blank\" style=\"color: #0000EE;\"> 08_Dragon_Photogrammetrie.png</a></li>\
+  <li><a href=\"alexisprnt.github.io/src/09_Dragon_Photogrammetrie.png\" target=\"_blank\" style=\"color: #0000EE;\"> 08_Dragon_Photogrammetrie.png</a></li>\
   <li><a href=\"https://www.instagram.com/astropodis/\" target=\"_blank\" style=\"color: #0000EE;\"> 09_astropodis.html - A Python Instagram Bot</a></li>\
   <li><a href=\"https://www.youtube.com/watch?v=dd6TIQ-NIbg&ab_channel=Alexis\" target=\"_blank\" style=\"color: #0000EE;\"> 10_Machine_Learning_Unity.mp4</a></li>\
   <li><a href=\"https://www.youtube.com/watch?v=8tp_rQvIplI&ab_channel=AlexisParent\" target=\"_blank\" style=\"color: #0000EE;\"> 11_CubeLand_Minecraft_Like.mp4</a></li>\
