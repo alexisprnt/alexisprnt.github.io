@@ -44,7 +44,7 @@ function about(){
 
 function projects(){
   return "<span style=\"color: #b5bd68;\"><h2>Projects:</h2></span><ul>\
-  <li><a href=\"https://www.youtube.com/watch?v=GzUb9cOxbaw&ab_channel=AlexisParent\" target=\"_blank\" style=\"color:#0000EE\"> 00_Helrom.mp4</a></li>\
+  <li><a href=\"https://www.youtube.com/watch?v=GzUb9cOxbaw&ab_channel=AlexisParent\" target=\"_blank\" style=\"color:blue\"> 00_Helrom.mp4</a></li>\
   <li><a href=\"https://www.youtube.com/watch?v=ldkfhMViWW0&ab_channel=AlexisParent\" target=\"_blank\" style=\"color:#0000EE\"> 01_Universim_Tycoon.mp4</a></li>\
   <li><a href=\"https://www.youtube.com/watch?v=VXdOvupJQsw&ab_channel=AlexisParent\" target=\"_blank\" style=\"color:#0000EE\"> 02_Inverse_Kinematic.mp4</a></li>\
   <li><a href=\"https://www.youtube.com/watch?v=ETHyrzOOgKQ&ab_channel=AlexisParent\" target=\"_blank\" style=\"color:#0000EE\"> 03_Procedural_Generation.mp4</a></li>\
