@@ -33,7 +33,7 @@ function contact(){
   </tr>\
   <tr>\
     <td>LinkedIn</td>\
-    <td><a href=\"https://www.linkedin.com/in/alexis-parent-74505120b/\">https://www.linkedin.com/in/alexis-parent-74505120b/</a></td>\
+    <td><a href=\"https://www.linkedin.com/in/alexis-parent-74505120b/\" target=\"_blank\">https://www.linkedin.com/in/alexis-parent-74505120b/</a></td>\
   </tr>\
   </table>";
 }
