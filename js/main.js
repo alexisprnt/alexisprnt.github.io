@@ -44,20 +44,20 @@ function about(){
 
 function projects(){
   return "<span style=\"color: #b5bd68;\"><h2>Projects:</h2></span><ul>\
-  <li><a href=\"https://www.youtube.com/watch?v=GzUb9cOxbaw&ab_channel=AlexisParent\" target=\"_blank\" style=\"color:blue\"> 00_Helrom.mp4</a></li>\
-  <li><a href=\"https://www.youtube.com/watch?v=ldkfhMViWW0&ab_channel=AlexisParent\" target=\"_blank\" style=\"color:#0000EE\"> 01_Universim_Tycoon.mp4</a></li>\
-  <li><a href=\"https://www.youtube.com/watch?v=VXdOvupJQsw&ab_channel=AlexisParent\" target=\"_blank\" style=\"color:#0000EE\"> 02_Inverse_Kinematic.mp4</a></li>\
-  <li><a href=\"https://www.youtube.com/watch?v=ETHyrzOOgKQ&ab_channel=AlexisParent\" target=\"_blank\" style=\"color:#0000EE\"> 03_Procedural_Generation.mp4</a></li>\
-  <li><a href=\"https://www.youtube.com/watch?v=5JTDmDNGiBc&ab_channel=AlexisParent\" target=\"_blank\" style=\"color:#0000EE\"> 04_Fibonnaci_Generation.mp4</a></li>\
-  <li><a href=\"https://www.youtube.com/watch?v=M1o3Z3TP20c&ab_channel=AlexisParent\" target=\"_blank\" style=\"color:#0000EE\"> 05_Shader_Water.mp4</a></li>\
-  <li><a href=\"src/06_UnrealVideur_Build\" target=\"_blank\" style=\"color:#0000EE\"> 06_UnrealVideur.exe</a></li>\
-  <li><a href=\"https://www.youtube.com/watch?v=C2xAV9Pygsw&ab_channel=AlexisParent\" target=\"_blank\" style=\"color:#0000EE\"> 07_Animation_Chainee.mp4</a></li>\
-  <li><a href=\"src/09_Dragon_Photogrammetrie.png\" target=\"_blank\" style=\"color:#0000EE\"> 08_Dragon_Photogrammetrie.png</a></li>\
-  <li><a href=\"https://www.instagram.com/astropodis/\" target=\"_blank\" style=\"color:#0000EE\"> 09_astropodis.html - A Python Instagram Bot</a></li>\
-  <li><a href=\"https://www.youtube.com/watch?v=dd6TIQ-NIbg&ab_channel=Alexis\" target=\"_blank\" style=\"color:#0000EE\"> 10_Machine_Learning_Unity.mp4</a></li>\
-  <li><a href=\"https://www.youtube.com/watch?v=8tp_rQvIplI&ab_channel=AlexisParent\" target=\"_blank\" style=\"color:#0000EE\"> 11_CubeLand_Minecraft_Like.mp4</a></li>\
-  <li><a href=\"https://www.youtube.com/watch?v=tsJbtTMlOqI&ab_channel=AlexisParent\" target=\"_blank\" style=\"color:#0000EE\"> 12_Le_Souffle_Emporte.mp4</a></li>\
-  <li><a href=\"https://www.youtube.com/watch?v=lTvr4SeCQsg&ab_channel=AlexisParent\" target=\"_blank\" style=\"color:#0000EE\"> 13_Kingdom_Hearts_Sound_Design_Rework.mp4</a></li>\
+  <li><a href=\"https://www.youtube.com/watch?v=GzUb9cOxbaw&ab_channel=AlexisParent\" target=\"_blank\" style=\"color: #0000EE;\"> 00_Helrom.mp4</a></li>\
+  <li><a href=\"https://www.youtube.com/watch?v=ldkfhMViWW0&ab_channel=AlexisParent\" target=\"_blank\" style=\"color: #0000EE;\"> 01_Universim_Tycoon.mp4</a></li>\
+  <li><a href=\"https://www.youtube.com/watch?v=VXdOvupJQsw&ab_channel=AlexisParent\" target=\"_blank\" style=\"color: #0000EE;\"> 02_Inverse_Kinematic.mp4</a></li>\
+  <li><a href=\"https://www.youtube.com/watch?v=ETHyrzOOgKQ&ab_channel=AlexisParent\" target=\"_blank\" style=\"color: #0000EE;\"> 03_Procedural_Generation.mp4</a></li>\
+  <li><a href=\"https://www.youtube.com/watch?v=5JTDmDNGiBc&ab_channel=AlexisParent\" target=\"_blank\" style=\"color: #0000EE;\"> 04_Fibonnaci_Generation.mp4</a></li>\
+  <li><a href=\"https://www.youtube.com/watch?v=M1o3Z3TP20c&ab_channel=AlexisParent\" target=\"_blank\" style=\"color: #0000EE;\"> 05_Shader_Water.mp4</a></li>\
+  <li><a href=\"src/06_UnrealVideur_Build\" target=\"_blank\" style=\"color: #0000EE;\"> 06_UnrealVideur.exe</a></li>\
+  <li><a href=\"https://www.youtube.com/watch?v=C2xAV9Pygsw&ab_channel=AlexisParent\" target=\"_blank\" style=\"color: #0000EE;\"> 07_Animation_Chainee.mp4</a></li>\
+  <li><a href=\"src/09_Dragon_Photogrammetrie.png\" target=\"_blank\" style=\"color: #0000EE;\"> 08_Dragon_Photogrammetrie.png</a></li>\
+  <li><a href=\"https://www.instagram.com/astropodis/\" target=\"_blank\" style=\"color: #0000EE;\"> 09_astropodis.html - A Python Instagram Bot</a></li>\
+  <li><a href=\"https://www.youtube.com/watch?v=dd6TIQ-NIbg&ab_channel=Alexis\" target=\"_blank\" style=\"color: #0000EE;\"> 10_Machine_Learning_Unity.mp4</a></li>\
+  <li><a href=\"https://www.youtube.com/watch?v=8tp_rQvIplI&ab_channel=AlexisParent\" target=\"_blank\" style=\"color: #0000EE;\"> 11_CubeLand_Minecraft_Like.mp4</a></li>\
+  <li><a href=\"https://www.youtube.com/watch?v=tsJbtTMlOqI&ab_channel=AlexisParent\" target=\"_blank\" style=\"color: #0000EE;\"> 12_Le_Souffle_Emporte.mp4</a></li>\
+  <li><a href=\"https://www.youtube.com/watch?v=lTvr4SeCQsg&ab_channel=AlexisParent\" target=\"_blank\" style=\"color: #0000EE;\"> 13_Kingdom_Hearts_Sound_Design_Rework.mp4</a></li>\
   </ul>";
 }
 
